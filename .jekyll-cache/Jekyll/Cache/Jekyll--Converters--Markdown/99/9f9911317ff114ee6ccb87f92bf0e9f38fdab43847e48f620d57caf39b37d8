@@ -1,0 +1,56 @@
+I"�<p>A curated collection of links to sites that I think are worth checking out.</p>
+
+<h3 id="the-obvious-stuff">The Obvious Stuff</h3>
+
+<p>Sites that a lot of people know, but still are worth putting up for completion’s sake.</p>
+
+<p><a href="https://www.wikipedia.org/">Wikipedia</a> - The best source of easily accessible information on the internet.</p>
+
+<p><a href="https://xkcd.com/">xkcd</a> - Everyone’s favorite webcomic.</p>
+
+<p><a href="https://arxiv.org/">The arXiv</a> - Best place to read the most up-to-date papers in physics.</p>
+
+<p><a href="https://news.ycombinator.com/">Hacker News</a> - Great forum for tech discussion.</p>
+
+<h3 id="interesting-reads">Interesting Reads</h3>
+
+<p>Other people’s sites that have some pretty interesting content.</p>
+
+<p><a href="https://stallman.org/">RMS’s Personal Site</a> - Stallman may be a bit crazy, and I don’t agree with everything he says, but he does raise a few good points.</p>
+
+<p><a href="https://osblog.stephenmarz.com/">The Adventures of OS</a> - Stephen Marz’s attempt at making a RISC-V OS with Rust.</p>
+
+<h3 id="privacy-information">Privacy Information</h3>
+
+<p>Some site’s to help you live a private and secure life.</p>
+
+<p><a href="https://www.privacytools.io/">PrivacyTools</a> - Great guide to help you replace various software tools with more private alternatives.</p>
+
+<p><a href="https://ssd.eff.org/">Surveillence Self-Defence</a> - Well written collection of guides on how to stay more private published by the Electronic Frontier Foundation.</p>
+
+<p><a href="/assets/privacy.pdf">The Right to Privacy</a> - Paper published in the Harvard Law Review way back in 1890 that raises arguments for privacy that are still valid today.</p>
+
+<p><a href="https://letsencrypt.org/">Let’s Encrypt</a> - Free service that provides <code class="highlighter-rouge">TLS</code> certificates. If you have a website that doesn’t use <code class="highlighter-rouge">HTTPS</code>, please grab a free certificate from Let’s Encrypt and secure your site.</p>
+
+<h3 id="great-software">Great Software</h3>
+
+<p>Link’s to some great software that I recommend.</p>
+
+<p><a href="https://getfedora.org/">Fedora Linux</a> - My Linux distro of choice. At the end of the day it doesn’t really matter what distro you use, but I do recommend picking one and trying it out to replace Windows/OS X.</p>
+
+<p><a href="https://www.vim.org/">Vim</a> - Hands down the best text editor. Check out my config <a href="https://github.com/lordskh/dotfiles">here</a>.</p>
+
+<p><a href="https://i3wm.org/">i3wm</a> - Highly functional tiling window manager. Check out my config <a href="https://github.com/lordskh/dotfiles">here</a>.</p>
+
+<p><a href="https://signal.org/">Signal</a> - The most secure messaging platform. Based on recent commits it looks like its one main weakness, using cell phone numbers as the only identifier, is going to be fixed soon.</p>
+
+<h3 id="other">Other</h3>
+
+<p>Some other sites to check out.</p>
+
+<p><a href="https://www.pine64.org/">Pine64</a> - Great organization making some cool hardware. I currently daily drive their PineBook Pro and it’s amazingly capable for a $200 machine.</p>
+
+<p><a href="https://motherfuckingwebsite.com/">The Best Website I Have Ever Seen</a> - This site (somewhat satirically) explains the problem’s with modern web design.</p>
+
+<p><a href="https://yzhan289.github.io/personal-website/">The Worst Website I Have Ever Seen</a> - This site is a perfect example of everything wrong with modern design. Thanks to Yifan Zhang for making this monstrosity.</p>
+:ET
