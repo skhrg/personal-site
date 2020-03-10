@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saianeesh.duckdns.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lordskh
 orcid_id: 0000-0001-6519-502X
-permalink: /:categories/:title
+permalink: /:categories/:title/
 # Build settings
 markdown: kramdown
 gems:
