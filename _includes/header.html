@@ -3,7 +3,7 @@
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <br>
-    {%- assign my_pages = site.html_pages | sort_natural -%}
+    {%- assign my_pages = site.html_pages | sort_natural:"title" -%}
     {%- for my_page in my_pages -%}
         <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape}}</a>
         &emsp;
