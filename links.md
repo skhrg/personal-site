@@ -57,4 +57,4 @@ Some other sites to check out.
 
 [The Best Website I Have Ever Seen](https://motherfuckingwebsite.com/) - This site (somewhat satirically) explains the problem's with modern web design.
 
-[The Worst Website I Have Ever Seen](https://yzhan289.github.io/personal-website/) - This site is a perfect example of everything wrong with modern design. Thanks to Yifan Zhang for making this monstrosity.
+[The Worst Website I Have Ever Seen](https://yzhan289.github.io/) - This site is a perfect example of everything wrong with modern design. Thanks to Yifan Zhang for making this monstrosity.
