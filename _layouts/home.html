@@ -8,6 +8,9 @@ layout: page
 
   <ul class="post-list">
     {% for post in site.posts %}
+      {% if post.hidden == true %}
+        {% continue %}
+      {% endif %}
       {% if post.categories == page.categories %}
         <li>
           <h2>
