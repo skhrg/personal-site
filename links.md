@@ -1,6 +1,7 @@
 ---
 layout: page 
 title: "Links"
+top: true
 ---
 
 A curated collection of links to sites that I think are worth checking out.
