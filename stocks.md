@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: "Stocks"
-top: true
+top: false
 ---
 
 Daily summaries of the top stocks from some subreddits
