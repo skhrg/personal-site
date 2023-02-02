@@ -1,5 +1,0 @@
-Options +Indexes
-AuthType Basic
-AuthName "Password Required"
-Require valid-user
-AuthUserFile /etc/httpd/conf/.htpasswd
