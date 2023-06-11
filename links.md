@@ -26,6 +26,16 @@ Other people's sites that have some pretty interesting content.
 
 [The Adventures of OS](https://osblog.stephenmarz.com/) - Stephen Marz's attempt at making a RISC-V OS with Rust.
 
+[Drew DeVault's Blog](https://drewdevault.com/) - Blog of the guy behind projects like [sway](https://swaywm.org/) and [sourcehut](https://sr.ht/).
+
+[Hundred Rabbits](https://100r.co) - Two people who live on a boat full time while sailing around the world.
+
+[A Collection of Unmitigated Pedantry](acoup.blog) - Super in depth blog with posts mostly relating to history.
+
+[Paul Graham Essays](http://paulgraham.com/articles.html) - Essays from one of the brains behind Y Combinator, some super insightful stuff here.
+
+[Low Tech Magazine](https://solar.lowtechmagazine.com/) - Solar powered website with articles that are largely about sustainability.
+
 ### Privacy Information
 
 Some site's to help you live a private and secure life.
@@ -54,8 +64,15 @@ Link's to some great software that I recommend.
 
 Some other sites to check out.
 
-[Pine64](https://www.pine64.org/) - Great organization making some cool hardware. I currently daily drive their PineBook Pro and it's amazingly capable for a $200 machine.
+[Iffy Books](https://iffybooks.net/) - Bookstore-cum-hackerspace in Philadelphia.
+Not only do they regularly host cool events, but you are almost guaranteed interesting conversation here and I have yet to meet anyone here that isn't great.
+If you are a computer nerd in Philadelphia definitely check it out.
 
-[The Best Website I Have Ever Seen](https://motherfuckingwebsite.com/) - This site (somewhat satirically) explains the problem's with modern web design.
+[Pine64](https://www.pine64.org/) - Great organization making some cool hardware.
+~~I currently daily drive their PineBook Pro and it's amazingly capable for a $200 machine.~~
+**UPDATE:** I no longer own my PineBook Pro, while it was fast enough for the rare occasions that I need a laptop in my day to day operations (I have a desktop both at home and in the lab) it wasn't good enough for when I travel and am using a laptop full time.
+
+[The Best Website I Have Ever Seen](https://motherfuckingwebsite.com/) - This site (somewhat satirically) explains the problems with modern web design.
 
 [The Worst Website I Have Ever Seen](https://yzhan289.github.io/) - This site is a perfect example of everything wrong with modern design. Thanks to Yifan Zhang for making this monstrosity.
+**UPDATE:** Looks like Yifan took this site down but an [archived copy](https://web.archive.org/web/20211202024746/https://andrewzhang.dev/) is available.
